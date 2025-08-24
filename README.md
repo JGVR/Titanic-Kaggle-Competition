@@ -1,6 +1,9 @@
 # Titanic Kaggle Competition 🚀
 ## Description 📝
 - Please go to the following link for the description of the competition: [Titanic-Kaggle](www.kaggle.com/competitions/titanic/overview/description)
+## Citation
+- Cukierski, W. (2012). *Titanic — Machine Learning from Disaster* [Competition]. Kaggle. <https://www.kaggle.com/competitions/titanic>. Accessed 2025-08-24.
+
 ## Approach 🧠
 - First step is to get familiar with the datasets provided, what are the dimensions of our dataset, which columns have missing values (NaNs).
 - Second is to analyze the dataset in order to engineered features that can boost the accuracy of the model. I'm going to create the following features:
