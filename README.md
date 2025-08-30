@@ -18,6 +18,8 @@
 
 ## Results 📊
 - My top submission puts me in the top 800 (789) of the leaderboard. This is a rolling leaderboard so it can change at any time.
+<img width="1482" height="533" alt="Screenshot 2025-08-24 at 6 25 48 PM" src="https://github.com/user-attachments/assets/33af3976-3846-4a20-b334-c0a3619cd37f" />
+
 
 ## Tech Stack 💻
 - Python
